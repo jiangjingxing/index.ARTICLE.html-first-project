@@ -1,0 +1,15 @@
+.fishead {
+    background-color:lightcyan;
+}
+
+#redah {
+    color:darkblue;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+mark {
+    background-color: aliceblue;
+    color:dodgerblue;
+}
