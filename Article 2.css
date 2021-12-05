@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px solid blue;
+}
+th {
+    color:darkgray
+}
+td {
+    margin: 2px;
+}
+
+mark {
+    font-size:23px;
+    color:dodgerblue;
+}
+.ASIDE {
+    color:dodgerblue;
+}
+#potato {
+    background-color: aliceblue;
+}
+
+p {
+    color:darkgray;
+}
+#watermelon {
+    background-color:cornsilk;
+}
+img {
+    border: 3px solid blue;
+    padding: 10px;
+    margin:5px;
+}
+header ~ p {
+  background-color: yellow;
+}
+article > ol {
+    color:darkblue;
+}
